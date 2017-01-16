@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsService", "AwsService\AwsService.csproj", "{D46A3EEE-2DC3-4BBD-B230-3578E3C001DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTester", "ServiceTester\ServiceTester.csproj", "{146B1E79-0ABF-4DEE-BEC4-7B614DD27167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46A3EEE-2DC3-4BBD-B230-3578E3C001DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46A3EEE-2DC3-4BBD-B230-3578E3C001DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46A3EEE-2DC3-4BBD-B230-3578E3C001DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46A3EEE-2DC3-4BBD-B230-3578E3C001DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146B1E79-0ABF-4DEE-BEC4-7B614DD27167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146B1E79-0ABF-4DEE-BEC4-7B614DD27167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146B1E79-0ABF-4DEE-BEC4-7B614DD27167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146B1E79-0ABF-4DEE-BEC4-7B614DD27167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
